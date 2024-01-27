@@ -1,0 +1,13 @@
+server:
+  name: podcast-ai-backend
+  version: 1.0.0
+  run:
+    host: 0.0.0.0
+    port: 9999
+    reload: True
+
+openai:
+  api_key: ""
+
+db:
+  sqlite_uri: "sqlite:///data/podcast-ai.db"
