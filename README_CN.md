@@ -4,6 +4,8 @@
 
 [[English](./README.md) | 中文]
 
+![](./.github/image/preview.png)
+
 ## 快速上手 
 
 ### 1 使用 docker compose 快速运行（推荐）
@@ -68,11 +70,18 @@ npm run dev
 # 打开 http://127.0.0.1:3000
 ```
 
+## 技术介绍
+
+![](./.github/image/main-progress-cn.jpg)
+
+![](./.github/image/technology-framework-cn.jpg)
+
 ## 参考 
 
 - [FastAPI](https://fastapi.tiangolo.com/zh/)
 - [Next.js](https://nextjs.org/)
 - [Ant Design](https://ant.design/)
+- [Langchain](https://www.langchain.com/)
 
 ## 协议
 

@@ -4,6 +4,8 @@ Whether it’s text or a link, it can be turned into a podcast!
 
 [English | [中文](./README_CN.md)]
 
+![](./.github/image/preview.png)
+
 ## Getting start
 
 ### 1 use docker compose (recommend)
@@ -68,11 +70,18 @@ npm run dev
 # open http://127.0.0.1:3000
 ```
 
+## Technology
+
+![](./.github/image/main-progress.jpg)
+
+![](./.github/image/technology-framework.jpg)
+
 ## Reference
 
 - [FastAPI](https://fastapi.tiangolo.com/)
 - [Next.js](https://nextjs.org/)
 - [Ant Design](https://ant.design/)
+- [Langchain](https://www.langchain.com/)
 
 ## License
 
