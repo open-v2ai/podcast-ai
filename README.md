@@ -8,6 +8,13 @@ Whether it’s text or a link, it can be turned into a podcast!
 
 ## Getting start
 
+```bash
+# clone repo
+git clone https://github.com/open-v2ai/podcast-ai.git
+
+cd podcast-ai
+```
+
 ### 1 use docker compose (recommend)
 
 ```bash

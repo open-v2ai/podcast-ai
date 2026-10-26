@@ -6,7 +6,14 @@
 
 ![](./.github/image/preview.png)
 
-## 快速上手 
+## 快速上手
+
+```bash
+# 克隆代码仓库
+git clone https://github.com/open-v2ai/podcast-ai.git
+
+cd podcast-ai
+```
 
 ### 1 使用 docker compose 快速运行（推荐）
 
@@ -76,7 +83,7 @@ npm run dev
 
 ![](./.github/image/technology-framework-cn.jpg)
 
-## 参考 
+## 参考
 
 - [FastAPI](https://fastapi.tiangolo.com/zh/)
 - [Next.js](https://nextjs.org/)
